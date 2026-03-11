@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/surya/finrag/mlflow_runs/318897362532315094/d5979e3a29ab4a8fa8feb050932eed9f/artifacts
+end_time: 1773249922467
+entry_point_name: ''
+experiment_id: '318897362532315094'
+lifecycle_stage: active
+run_id: d5979e3a29ab4a8fa8feb050932eed9f
+run_name: baseline_122522
+run_uuid: d5979e3a29ab4a8fa8feb050932eed9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249922363
+status: 3
+tags: []
+user_id: surya

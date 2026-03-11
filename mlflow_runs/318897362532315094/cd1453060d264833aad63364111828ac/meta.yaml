@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/surya/finrag/mlflow_runs/318897362532315094/cd1453060d264833aad63364111828ac/artifacts
+end_time: 1773249922646
+entry_point_name: ''
+experiment_id: '318897362532315094'
+lifecycle_stage: active
+run_id: cd1453060d264833aad63364111828ac
+run_name: smaller_chunks_122522
+run_uuid: cd1453060d264833aad63364111828ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249922570
+status: 3
+tags: []
+user_id: surya
